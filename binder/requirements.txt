@@ -1,3 +1,4 @@
 # Add any requirements needed
 jupyterlab
 aquirdturtle_collapsible_headings
+xeus-python
