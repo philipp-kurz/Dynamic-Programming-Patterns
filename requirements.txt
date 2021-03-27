@@ -1,3 +1,2 @@
 # Add any requirements needed
-jupyter-book
-jupytext
+jupyter_contrib_nbextensions
