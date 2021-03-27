@@ -1,3 +1,4 @@
 # Add any requirements needed
-jupyter_contrib_nbextensions
-jupyterthemes
+jupyterlab
+#jupyter_contrib_nbextensions
+#jupyterthemes
