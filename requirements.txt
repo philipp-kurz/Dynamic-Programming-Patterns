@@ -1,2 +1,3 @@
 # Add any requirements needed
 jupyter-book
+jupytext
