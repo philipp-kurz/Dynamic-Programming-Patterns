@@ -1,5 +1,3 @@
 # Add any requirements needed
 jupyterlab
-#jupyter_contrib_nbextensions
-#jupyterthemes
 aquirdturtle_collapsible_headings
