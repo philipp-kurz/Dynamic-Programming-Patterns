@@ -1,6 +1,6 @@
 # Dynamic Programming Patterns
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/philipp-kurz/dynamic_programming_patterns/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/philipp-kurz/dynamic_programming_patterns/HEAD?urlpath=lab/tree/DP_Problem_Patterns.ipynb)
 
 This repository contains a collection of common dynamic programming problem patterns, their recurrence relations and solutions.
 Everything is found in the single Jupyter notebook, which can be launched with the Binder button above - try it out!
