@@ -1,21 +1,6 @@
-#!/usr/bin/env bash
-set -eux
-
-# Install jupyter_lsp python package
-python -m pip install jupyter_lsp
-jupyter serverextension enable --sys-prefix --py jupyter_lsp
-
-# Install jupyterlab-lsp and debugger JupyterLab extensions
-jupyter labextension install @krassowski/jupyterlab-lsp @jupyterlab/debugger@0.2.0 --debug
-
-# Uninstall ipykernel
-pip uninstall -y ipykernel
-
-
-
 #!/bin/bash
 
 # Import the workspace into JupyterLab
 # jupyter lab workspaces import binder/workspace.json
 
-# jupyter labextension install @jupyterlab/debugger
+jupyter labextension install @jupyterlab/debugger
