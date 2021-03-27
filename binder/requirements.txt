@@ -2,3 +2,4 @@
 jupyterlab
 aquirdturtle_collapsible_headings
 xeus-python
+ptvsd
